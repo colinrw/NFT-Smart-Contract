@@ -25,7 +25,7 @@ contract MyEpicNFT is ERC721URIStorage {
 
     string[] firstWords = ["My", "Yours", "Ours", "Their", "His", "Her"];
     string[] secondWords = ["Astonishing", "Fabulous", "Fenominal", "Amazing", "Excellent", "formidable"];
-    string[] thirdWords = ["Cat", "Dog", "NFT", "Sidehoe", "Death", "Wallet"];
+    string[] thirdWords = ["Cat", "Dog", "NFT", "Dad", "Death", "Wallet"];
 
     // Background colors
     string[] colors = ["#FFD0DE", "#9FCABF", "#102A3E", "#FF8385", "#617F46", "#613F82"];
